@@ -1,2 +1,1 @@
-﻿测试日记
-新增内容1
+<attachment contenteditable="false" data-atts="%5B%5D" data-aid=".atts-e29c1348-647c-433c-9c06-fdf40c6a1aab"></attachment><p>测试日记 新增内容1</p><p><br></p>
